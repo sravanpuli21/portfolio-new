@@ -1,0 +1,814 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "sravanpuli",
+    "displayName": "Sravan Puli",
+    "profession": "Founder & UX Designer",
+    "location": "Savannah, USA",
+    "pronouns": "He/Him",
+    "byline": "Founder & UX Designer in Savannah, USA, He/Him",
+    "website": "sravanpuli.in",
+    "websiteURL": "http://sravanpuli.in",
+    "about": "Heyyyyoooooo\nI'm Sravan!!\nI'm an experienced designer and adventurous photographer with an unwavering passion for technology. I love exploring new fields and trying the latest gadgets. Adept at problem-solving with a blend of creativity and analytical thinking, I capture mesmerizing travel wonders and enticing food flavors through my lens. Let's embark on an exhilarating journey, merging innovation, problem-solving, and artistic storytelling to create exceptional experiences together.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Work Experience",
+      "Projects",
+      "Education",
+      "Certifications",
+      "Exhibitions",
+      "Side Projects",
+      "Volunteering",
+      "Speaking",
+      "Contact",
+      "Writing",
+      "Awards",
+      "Features",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "I37yIlo8TnVoacuXWoD9",
+      "year": "2024",
+      "heading": "Blueton at We Think App",
+      "url": "http://wethinkapp.com",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "project",
+      "title": "Blueton",
+      "company": "We Think App"
+    },
+    {
+      "id": "AHZ8PUrXcy8rXv0fcT5O",
+      "year": "2023",
+      "heading": "Website Redesign at Maarthala Solutions",
+      "url": null,
+      "collaborators": [],
+      "description": "Showcasing a sleek and intuitive website design for an education consultancy service. Seamlessly blending functionality and aesthetics, I crafted a user-centered experience to empower students in their educational journey..",
+      "attachments": [],
+      "type": "project",
+      "title": "Website Redesign",
+      "company": "Maarthala Solutions"
+    },
+    {
+      "id": "iedSRZ5tHhu98JamBJTv",
+      "year": "2023",
+      "heading": "DocTutorial Mobile App at DocTutorial",
+      "url": "http://doctutorial.com",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "project",
+      "title": "DocTutorial Mobile App",
+      "company": "DocTutorial"
+    },
+    {
+      "id": "IrVJUW4KbWvxnvUkTz1F",
+      "year": "2023",
+      "heading": "FarmFood",
+      "url": "https://www.behance.net/gallery/171658193/Farm-Food-Mobile-Application-Case-Study",
+      "collaborators": [],
+      "description": "A mobile application that connects connects farmers directly with customers for buying and selling organic products.",
+      "attachments": [],
+      "type": "project",
+      "title": "FarmFood",
+      "company": null
+    },
+    {
+      "id": "p9gZIA7pkWj6NZ1Col8E",
+      "year": "2023",
+      "heading": "Pilgrimage",
+      "url": "https://www.behance.net/gallery/171828953/Pilgrimage-Mobile-Application-Case-Study",
+      "collaborators": [],
+      "description": "Pilgrimage is the essential mobile application for pilgrims embarking on sacred journeys, Seamlessly navigate your pilgrimage with ease as you access a treasure trove of vital information and resources.From routes to accommodation options.",
+      "attachments": [],
+      "type": "project",
+      "title": "Pilgrimage",
+      "company": null
+    },
+    {
+      "id": "XzFjszRvfx9d4Uzryo0l",
+      "year": "2023",
+      "heading": "Sneaker Vault at Qurinom Solutions",
+      "url": "https://www.behance.net/gallery/175043121/SneakerVault",
+      "collaborators": [],
+      "description": "Sneaker Vault is the ultimate mobile application for sneaker enthusiasts. Unlock a world of luxury and style as you browse, rent, and flaunt a collection of the most sought-after sneakers,where you can get sneakers for rentals",
+      "attachments": [],
+      "type": "project",
+      "title": "Sneaker Vault",
+      "company": "Qurinom Solutions"
+    },
+    {
+      "id": "awIgQ9qGkzrpEeOy3CAq",
+      "year": "2022",
+      "heading": "BlackON",
+      "url": "https://www.behance.net/gallery/171834909/Black-On-ecommerce-Website-App",
+      "collaborators": [],
+      "description": "BlackOn is a ecom website and mobile applications where you can find many cloths only in colour of black",
+      "attachments": [],
+      "type": "project",
+      "title": "BlackON",
+      "company": null
+    },
+    {
+      "id": "TN76aRFW1iZfBzTKQDxe",
+      "year": "2022",
+      "heading": "TrackMate",
+      "url": "https://www.behance.net/gallery/171834177/TrackMate?log_shim_removal=1",
+      "collaborators": [],
+      "description": "SaveTrack can track and record all of your subscribed applications on your mobile device, so you can easily see what youre paying for and when your subscriptions are due to renew.",
+      "attachments": [],
+      "type": "project",
+      "title": "TrackMate",
+      "company": null
+    },
+    {
+      "id": "iG94ByotbkItGcdkc57y",
+      "year": "2021",
+      "heading": "Happy Coffee Branding at Happy Coffee",
+      "url": "https://www.behance.net/gallery/170764643/HAPPY-COFFEE-BRANDING",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "project",
+      "title": "Happy Coffee Branding",
+      "company": "Happy Coffee"
+    }
+  ],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "U3qhMvtXBNT6PFHMAoA8",
+      "year": "2023 — Now",
+      "heading": "Founder & CEO at WE Design",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Founder & CEO",
+      "company": "WE Design",
+      "location": "Hyderabad"
+    },
+    {
+      "id": "9o5EUQKR31c18rPrh73P",
+      "year": "2023 — 2024",
+      "heading": "UX Designer at WTA Design Studio",
+      "url": "https://www.wethinkapp.com/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX Designer",
+      "company": "WTA Design Studio",
+      "location": "Hyderabad"
+    },
+    {
+      "id": "0eXIADnGU9wzXIOZEURY",
+      "year": "2023 — 2023",
+      "heading": "UX UI designer at Webileapps",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX UI designer",
+      "company": "Webileapps",
+      "location": "Hyderabad"
+    },
+    {
+      "id": "5YtS824Yz2IIsmyBO9b2",
+      "year": "2022 — 2023",
+      "heading": "UX UI Designer at Qurinom Solutions",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX UI Designer",
+      "company": "Qurinom Solutions",
+      "location": "Hyderabad"
+    },
+    {
+      "id": "DvHWHmpnPeA675NK7wk1",
+      "year": "2021 — 2022",
+      "heading": "UX UI Designer at Informatics India",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX UI Designer",
+      "company": "Informatics India",
+      "location": "Hyderabad"
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "R0DXohJAwf3Gt0ZMqqAI",
+      "year": "2019 — 2023",
+      "heading": "Volunteer at NSS",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Volunteer",
+      "organization": "NSS",
+      "location": null
+    },
+    {
+      "id": "qqKqVZUcOQtbfKbHzv5o",
+      "year": "2020 — 2023",
+      "heading": "Co-ordinator at Street Cause",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Co-ordinator",
+      "organization": "Street Cause",
+      "location": "Hyderabad"
+    }
+  ],
+  "education": [
+    {
+      "id": "77h4cUXyiBgxTAeKGDXZ",
+      "year": "2024 — Now",
+      "heading": "Masters in Business Innovation at Savanaah College of Arts and Design (SCAD)",
+      "url": "https://www.scad.edu/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Masters in Business Innovation",
+      "school": "Savanaah College of Arts and Design (SCAD)",
+      "location": "Savanaah, USA"
+    },
+    {
+      "id": "Jj4CodKQX1WIa7NW8lun",
+      "year": "2019 — 2023",
+      "heading": "BTech at Mahatma Gandhi Institute of Technology",
+      "url": "http://mgit.ac.in",
+      "collaborators": [],
+      "description": "Major: ECE\nCGPA: 3.2/4",
+      "attachments": [],
+      "type": "education",
+      "degree": "BTech",
+      "school": "Mahatma Gandhi Institute of Technology",
+      "location": "Hyderabad"
+    },
+    {
+      "id": "hRlux9xVyWDB6oLr17ng",
+      "year": "2017 — 2019",
+      "heading": "Intermediate at Fiitjee",
+      "url": "http://www.fiitjee.com",
+      "collaborators": [],
+      "description": "Board: TSBIE\nPercentage: 85%\nMPC",
+      "attachments": [],
+      "type": "education",
+      "degree": "Intermediate",
+      "school": "Fiitjee",
+      "location": "Hyderabad"
+    },
+    {
+      "id": "kRQWz1wFCBqHr36561hI",
+      "year": "",
+      "heading": "Secondary School Education at Talent School",
+      "url": "http://talentschoolspl.com",
+      "collaborators": [],
+      "description": "Borad: TSBSC \nGPA: 8.7",
+      "attachments": [],
+      "type": "education",
+      "degree": "Secondary School Education",
+      "school": "Talent School",
+      "location": "Sathupalli"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "JWYAWzqef5fG9ySNtaJV",
+      "year": "2023",
+      "heading": "Google UX Design Professional Certificate from Google",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "certification",
+      "name": "Google UX Design Professional Certificate",
+      "organization": "Google"
+    },
+    {
+      "id": "JDrKLxI8x6TijPp2yFCc",
+      "year": "2021",
+      "heading": "Introduction To IOT from NPTEL",
+      "url": "https://drive.google.com/file/d/1eZFjDRFmX4Fz10tQmB51LBaWtEqCbyPG/view?usp=drive_link",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "certification",
+      "name": "Introduction To IOT",
+      "organization": "NPTEL"
+    },
+    {
+      "id": "p3DVLqjkrlu5MZy8WTjX",
+      "year": "2019",
+      "heading": "Programming for Everybody (Getting Started with Python) from Coursera",
+      "url": "https://coursera.org/share/f46262a87fd5b1c294f624cde309a05b",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "certification",
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "organization": "Coursera"
+    },
+    {
+      "id": "s33DeYdJNdiMrmY9WUGr",
+      "year": "2019",
+      "heading": "Introduction to Programming Using HTML and CSS from Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/records/GZ4DDM7WTSXQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "certification",
+      "name": "Introduction to Programming Using HTML and CSS",
+      "organization": "Coursera"
+    }
+  ],
+  "contact": [
+    {
+      "id": "tR99I5TlYeYYw8sIBiqI",
+      "platform": "Behance",
+      "handle": "Sravan Puli",
+      "url": "https://www.behance.net/sravanpuli"
+    },
+    {
+      "id": "T6jypPbF5scGTW5364Te",
+      "platform": "X",
+      "handle": "SravanPuli21",
+      "url": "https://x.com/SravanPuli21"
+    },
+    {
+      "id": "QTxVyUDPGsGcF9weNZU1",
+      "platform": "Email",
+      "handle": "sravanpuli2002@gmail.com",
+      "url": "mailto:sravanpuli2002@gmail.com"
+    },
+    {
+      "id": "7N2HIlDSJY4MoNxuAIyD",
+      "platform": "Website",
+      "handle": "bento.me/sravanpuli",
+      "url": "http://bento.me/sravanpuli"
+    },
+    {
+      "id": "YZWai8BE6RMaCUvGmUhq",
+      "platform": "Website",
+      "handle": "sravanpuli.in",
+      "url": "http://sravanpuli.in"
+    },
+    {
+      "id": "50ZeCWZO8nIUkg2ODmDN",
+      "platform": "LinkedIn",
+      "handle": "sravanpuli",
+      "url": "https://linkedin.com/in/sravanpuli"
+    },
+    {
+      "id": "dlqxci6W7HUA9iun2r9n",
+      "platform": "Youtube",
+      "handle": "youtube.com/@pulisravan",
+      "url": "http://youtube.com/@pulisravan"
+    },
+    {
+      "id": "pQ3glLMa9eHkMuTw2sI9",
+      "platform": "Twitter",
+      "handle": "sravanpuli21",
+      "url": "https://twitter.com/sravanpuli21"
+    },
+    {
+      "id": "lZkmjDWpHUXvswk894bR",
+      "platform": "Instagram",
+      "handle": "sravan_puli_",
+      "url": "https://instagram.com/sravan_puli_"
+    },
+    {
+      "id": "X5mwNFTxKF5Nds4beLB8",
+      "platform": "GitHub",
+      "handle": "sravanpuli21",
+      "url": "https://github.com/sravanpuli21"
+    },
+    {
+      "id": "W60dcUrqL1dbSQKn6KPR",
+      "platform": "Facebook",
+      "handle": "sravanpuli21",
+      "url": "https://facebook.com/sravanpuli21"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "U3qhMvtXBNT6PFHMAoA8",
+          "year": "2023 — Now",
+          "heading": "Founder & CEO at WE Design",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Founder & CEO",
+          "company": "WE Design",
+          "location": "Hyderabad"
+        },
+        {
+          "id": "9o5EUQKR31c18rPrh73P",
+          "year": "2023 — 2024",
+          "heading": "UX Designer at WTA Design Studio",
+          "url": "https://www.wethinkapp.com/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX Designer",
+          "company": "WTA Design Studio",
+          "location": "Hyderabad"
+        },
+        {
+          "id": "0eXIADnGU9wzXIOZEURY",
+          "year": "2023 — 2023",
+          "heading": "UX UI designer at Webileapps",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX UI designer",
+          "company": "Webileapps",
+          "location": "Hyderabad"
+        },
+        {
+          "id": "5YtS824Yz2IIsmyBO9b2",
+          "year": "2022 — 2023",
+          "heading": "UX UI Designer at Qurinom Solutions",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX UI Designer",
+          "company": "Qurinom Solutions",
+          "location": "Hyderabad"
+        },
+        {
+          "id": "DvHWHmpnPeA675NK7wk1",
+          "year": "2021 — 2022",
+          "heading": "UX UI Designer at Informatics India",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX UI Designer",
+          "company": "Informatics India",
+          "location": "Hyderabad"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "I37yIlo8TnVoacuXWoD9",
+          "year": "2024",
+          "heading": "Blueton at We Think App",
+          "url": "http://wethinkapp.com",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "project",
+          "title": "Blueton",
+          "company": "We Think App"
+        },
+        {
+          "id": "AHZ8PUrXcy8rXv0fcT5O",
+          "year": "2023",
+          "heading": "Website Redesign at Maarthala Solutions",
+          "url": null,
+          "collaborators": [],
+          "description": "Showcasing a sleek and intuitive website design for an education consultancy service. Seamlessly blending functionality and aesthetics, I crafted a user-centered experience to empower students in their educational journey..",
+          "attachments": [],
+          "type": "project",
+          "title": "Website Redesign",
+          "company": "Maarthala Solutions"
+        },
+        {
+          "id": "iedSRZ5tHhu98JamBJTv",
+          "year": "2023",
+          "heading": "DocTutorial Mobile App at DocTutorial",
+          "url": "http://doctutorial.com",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "project",
+          "title": "DocTutorial Mobile App",
+          "company": "DocTutorial"
+        },
+        {
+          "id": "IrVJUW4KbWvxnvUkTz1F",
+          "year": "2023",
+          "heading": "FarmFood",
+          "url": "https://www.behance.net/gallery/171658193/Farm-Food-Mobile-Application-Case-Study",
+          "collaborators": [],
+          "description": "A mobile application that connects connects farmers directly with customers for buying and selling organic products.",
+          "attachments": [],
+          "type": "project",
+          "title": "FarmFood",
+          "company": null
+        },
+        {
+          "id": "p9gZIA7pkWj6NZ1Col8E",
+          "year": "2023",
+          "heading": "Pilgrimage",
+          "url": "https://www.behance.net/gallery/171828953/Pilgrimage-Mobile-Application-Case-Study",
+          "collaborators": [],
+          "description": "Pilgrimage is the essential mobile application for pilgrims embarking on sacred journeys, Seamlessly navigate your pilgrimage with ease as you access a treasure trove of vital information and resources.From routes to accommodation options.",
+          "attachments": [],
+          "type": "project",
+          "title": "Pilgrimage",
+          "company": null
+        },
+        {
+          "id": "XzFjszRvfx9d4Uzryo0l",
+          "year": "2023",
+          "heading": "Sneaker Vault at Qurinom Solutions",
+          "url": "https://www.behance.net/gallery/175043121/SneakerVault",
+          "collaborators": [],
+          "description": "Sneaker Vault is the ultimate mobile application for sneaker enthusiasts. Unlock a world of luxury and style as you browse, rent, and flaunt a collection of the most sought-after sneakers,where you can get sneakers for rentals",
+          "attachments": [],
+          "type": "project",
+          "title": "Sneaker Vault",
+          "company": "Qurinom Solutions"
+        },
+        {
+          "id": "awIgQ9qGkzrpEeOy3CAq",
+          "year": "2022",
+          "heading": "BlackON",
+          "url": "https://www.behance.net/gallery/171834909/Black-On-ecommerce-Website-App",
+          "collaborators": [],
+          "description": "BlackOn is a ecom website and mobile applications where you can find many cloths only in colour of black",
+          "attachments": [],
+          "type": "project",
+          "title": "BlackON",
+          "company": null
+        },
+        {
+          "id": "TN76aRFW1iZfBzTKQDxe",
+          "year": "2022",
+          "heading": "TrackMate",
+          "url": "https://www.behance.net/gallery/171834177/TrackMate?log_shim_removal=1",
+          "collaborators": [],
+          "description": "SaveTrack can track and record all of your subscribed applications on your mobile device, so you can easily see what youre paying for and when your subscriptions are due to renew.",
+          "attachments": [],
+          "type": "project",
+          "title": "TrackMate",
+          "company": null
+        },
+        {
+          "id": "iG94ByotbkItGcdkc57y",
+          "year": "2021",
+          "heading": "Happy Coffee Branding at Happy Coffee",
+          "url": "https://www.behance.net/gallery/170764643/HAPPY-COFFEE-BRANDING",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "project",
+          "title": "Happy Coffee Branding",
+          "company": "Happy Coffee"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "77h4cUXyiBgxTAeKGDXZ",
+          "year": "2024 — Now",
+          "heading": "Masters in Business Innovation at Savanaah College of Arts and Design (SCAD)",
+          "url": "https://www.scad.edu/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Masters in Business Innovation",
+          "school": "Savanaah College of Arts and Design (SCAD)",
+          "location": "Savanaah, USA"
+        },
+        {
+          "id": "Jj4CodKQX1WIa7NW8lun",
+          "year": "2019 — 2023",
+          "heading": "BTech at Mahatma Gandhi Institute of Technology",
+          "url": "http://mgit.ac.in",
+          "collaborators": [],
+          "description": "Major: ECE\nCGPA: 3.2/4",
+          "attachments": [],
+          "type": "education",
+          "degree": "BTech",
+          "school": "Mahatma Gandhi Institute of Technology",
+          "location": "Hyderabad"
+        },
+        {
+          "id": "hRlux9xVyWDB6oLr17ng",
+          "year": "2017 — 2019",
+          "heading": "Intermediate at Fiitjee",
+          "url": "http://www.fiitjee.com",
+          "collaborators": [],
+          "description": "Board: TSBIE\nPercentage: 85%\nMPC",
+          "attachments": [],
+          "type": "education",
+          "degree": "Intermediate",
+          "school": "Fiitjee",
+          "location": "Hyderabad"
+        },
+        {
+          "id": "kRQWz1wFCBqHr36561hI",
+          "year": "",
+          "heading": "Secondary School Education at Talent School",
+          "url": "http://talentschoolspl.com",
+          "collaborators": [],
+          "description": "Borad: TSBSC \nGPA: 8.7",
+          "attachments": [],
+          "type": "education",
+          "degree": "Secondary School Education",
+          "school": "Talent School",
+          "location": "Sathupalli"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "JWYAWzqef5fG9ySNtaJV",
+          "year": "2023",
+          "heading": "Google UX Design Professional Certificate from Google",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "certification",
+          "name": "Google UX Design Professional Certificate",
+          "organization": "Google"
+        },
+        {
+          "id": "JDrKLxI8x6TijPp2yFCc",
+          "year": "2021",
+          "heading": "Introduction To IOT from NPTEL",
+          "url": "https://drive.google.com/file/d/1eZFjDRFmX4Fz10tQmB51LBaWtEqCbyPG/view?usp=drive_link",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "certification",
+          "name": "Introduction To IOT",
+          "organization": "NPTEL"
+        },
+        {
+          "id": "p3DVLqjkrlu5MZy8WTjX",
+          "year": "2019",
+          "heading": "Programming for Everybody (Getting Started with Python) from Coursera",
+          "url": "https://coursera.org/share/f46262a87fd5b1c294f624cde309a05b",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "certification",
+          "name": "Programming for Everybody (Getting Started with Python)",
+          "organization": "Coursera"
+        },
+        {
+          "id": "s33DeYdJNdiMrmY9WUGr",
+          "year": "2019",
+          "heading": "Introduction to Programming Using HTML and CSS from Coursera",
+          "url": "https://www.coursera.org/account/accomplishments/records/GZ4DDM7WTSXQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "certification",
+          "name": "Introduction to Programming Using HTML and CSS",
+          "organization": "Coursera"
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "items": [
+        {
+          "id": "R0DXohJAwf3Gt0ZMqqAI",
+          "year": "2019 — 2023",
+          "heading": "Volunteer at NSS",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Volunteer",
+          "organization": "NSS",
+          "location": null
+        },
+        {
+          "id": "qqKqVZUcOQtbfKbHzv5o",
+          "year": "2020 — 2023",
+          "heading": "Co-ordinator at Street Cause",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Co-ordinator",
+          "organization": "Street Cause",
+          "location": "Hyderabad"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "tR99I5TlYeYYw8sIBiqI",
+          "platform": "Behance",
+          "handle": "Sravan Puli",
+          "url": "https://www.behance.net/sravanpuli"
+        },
+        {
+          "id": "T6jypPbF5scGTW5364Te",
+          "platform": "X",
+          "handle": "SravanPuli21",
+          "url": "https://x.com/SravanPuli21"
+        },
+        {
+          "id": "QTxVyUDPGsGcF9weNZU1",
+          "platform": "Email",
+          "handle": "sravanpuli2002@gmail.com",
+          "url": "mailto:sravanpuli2002@gmail.com"
+        },
+        {
+          "id": "7N2HIlDSJY4MoNxuAIyD",
+          "platform": "Website",
+          "handle": "bento.me/sravanpuli",
+          "url": "http://bento.me/sravanpuli"
+        },
+        {
+          "id": "YZWai8BE6RMaCUvGmUhq",
+          "platform": "Website",
+          "handle": "sravanpuli.in",
+          "url": "http://sravanpuli.in"
+        },
+        {
+          "id": "50ZeCWZO8nIUkg2ODmDN",
+          "platform": "LinkedIn",
+          "handle": "sravanpuli",
+          "url": "https://linkedin.com/in/sravanpuli"
+        },
+        {
+          "id": "dlqxci6W7HUA9iun2r9n",
+          "platform": "Youtube",
+          "handle": "youtube.com/@pulisravan",
+          "url": "http://youtube.com/@pulisravan"
+        },
+        {
+          "id": "pQ3glLMa9eHkMuTw2sI9",
+          "platform": "Twitter",
+          "handle": "sravanpuli21",
+          "url": "https://twitter.com/sravanpuli21"
+        },
+        {
+          "id": "lZkmjDWpHUXvswk894bR",
+          "platform": "Instagram",
+          "handle": "sravan_puli_",
+          "url": "https://instagram.com/sravan_puli_"
+        },
+        {
+          "id": "X5mwNFTxKF5Nds4beLB8",
+          "platform": "GitHub",
+          "handle": "sravanpuli21",
+          "url": "https://github.com/sravanpuli21"
+        },
+        {
+          "id": "W60dcUrqL1dbSQKn6KPR",
+          "platform": "Facebook",
+          "handle": "sravanpuli21",
+          "url": "https://facebook.com/sravanpuli21"
+        }
+      ]
+    }
+  ]
+}
