@@ -23,8 +23,8 @@ export default function Home() {
       {/* navbar */}
       <Header />
       {/* hero */}
-      <section className="w-full h-full flex items-center justify-center gap-10 my-10">
-        <div className="w-1/4 h-[500px]">
+      <section className="w-full h-full flex sm:flex-row flex-col items-center justify-center gap-10 my-10 sm:px-0 px-5">
+        <div className="sm:w-1/4 w-full sm:h-[500px] h-full">
           <div className="text-white  w-full h-full text-center">
             <Image
               src={"/hero.png"}
@@ -34,37 +34,37 @@ export default function Home() {
             />
           </div>
         </div>
-        <div className="w-2/6 space-y-4">
-          <p className="text-sm text-[#31BDA3]">HEY</p>
-          <p className="text-4xl font-bold">Hey, I am Sravan!.</p>
-          <p className="text-4xl font-bold my-2">
+        <div className="sm:w-2/6 w-full space-y-4">
+          <p className="text-sm text-[#31BDA3] font-bold">HEY</p>
+          <p className="sm:text-4xl text-3xl font-bold ">Hey, I am Sravan!.</p>
+          <p className="sm:text-4xl text-3xl font-bold my-2">
             I love{" "}
             <span className="border-b-4  border-[#31BDA3] py-1">
               {" "}
               gadgets,not just pixels
             </span>
           </p>
-          <p className="text-sm text-[#333333] py-4 tracking-wider">
+          <p className="text-sm text-[#333333] py-4 tracking-wider font-normal">
             Product Designer based out of Atlanta. Professional UX <br />{" "}
             experience in{" "}
-            <span className="font-bold text-black underline underline-offset-2">
+            <span className=" text-black underline underline-offset-2 font-semibold">
               B2B spaces
             </span>{" "}
             and{" "}
-            <span className="font-bold text-black underline underline-offset-2">
+            <span className="font-semibold text-black underline underline-offset-2">
               {" "}
               SaaS applications.
             </span>
           </p>
-          <p className="text-sm font-medium border-b-2 border-black w-fit my-2">
+          <p className="text-sm font-semibold border-b-2 border-black w-fit my-2">
             SCAD ’ Savannah 🎓
           </p>
           <div className="flex gap-4 py-4">
-            <Button className="rounded-full py-6 px-8 bg-[#31BDA3] ">
+            <Button className="rounded-full py-6 px-8 bg-[#31BDA3] hover:bg-[#155D62]">
               More About Me
             </Button>
             <Button
-              className="rounded-full py-6 px-8 border-[#31BDA3] text-[#31BDA3]"
+              className="rounded-full py-6 px-8 border-[#31BDA3] text-[#31BDA3] hover:border-[#E3DFDA] hover:bg-[#E3DFDA]"
               variant="outline"
             >
               My Portfolio
@@ -76,7 +76,7 @@ export default function Home() {
       <section className="relative w-full h-full flex flex-col items-center py-10 justify-center">
         <p className="text-2xl font-bold mb-12">Brands I Have Designed For</p>
 
-        <div className="w-3/4 relative">
+        <div className="sm:w-3/4 w-full relative">
           <div className="absolute top-0 left-0 h-full w-16 bg-gradient-to-r from-white to-transparent pointer-events-none z-10"></div>
           <div className="absolute top-0 right-0 h-full w-16 bg-gradient-to-l from-white to-transparent pointer-events-none z-10"></div>
           <div className="w-full overflow-x-hidden">
@@ -125,14 +125,14 @@ export default function Home() {
       </section>
       {/* projects */}
       <section className="w-full h-full flex flex-col items-center py-10">
-        <p className="text-3xl font-bold mb-6">Projects</p>
+        <p className="text-4xl font-bold mb-6">Projects</p>
         <div>
           {featured.map((item) => (
             <div
               key={item.id}
-              className="flex flex-row items-center justify-center gap-8 w-[940px] h-[564px] px-12 py-14"
+              className="flex sm:flex-row flex-col items-center justify-center gap-8 sm:w-[940px] sm:h-[564px] w-full h-auto px-12 sm:py-14 py-4"
             >
-              <div className="flex-1">
+              <div className="flex-1 w-full">
                 <Image
                   src={item.image}
                   alt=""
@@ -141,9 +141,9 @@ export default function Home() {
                   className="w-full h-full object-contain"
                 />
               </div>
-              <div className="flex-1 flex flex-col items-start justify-start gap-4 w-full h-full py-10">
-                <p className="text-sm text-[#31BDA3]">{item.id}</p>
-                <h2 className="text-4xl font-bold pt-4">{item.title}</h2>
+              <div className="flex-1 flex flex-col items-start justify-start gap-4 w-full h-full sm:py-10 py-2">
+                <p className="text-sm font-bold text-[#31BDA3]">{item.id}</p>
+                <h2 className="text-5xl font-bold pt-4">{item.title}</h2>
                 <p className="pt-2">{item.description}</p>
                 <p className="flex items-center gap-2 pt-4">
                   <span>
@@ -158,14 +158,14 @@ export default function Home() {
                   </span>
                   {item.research}
                 </p>
-                <Button className="rounded-full py-6 px-8 bg-[#31BDA3] mt-4">
+                <Button className="rounded-full py-6 px-8 bg-[#31BDA3] hover:bg-[#155D62] mt-4">
                   View Case Study
                 </Button>
               </div>
             </div>
           ))}
         </div>
-        <Button className="rounded-full py-3 px-6 bg-[#31BDA3] w-56 h-auto">
+        <Button className="rounded-full py-3 px-6 bg-[#31BDA3] hover:bg-[#155D62] w-56 h-auto">
           view all projects
         </Button>
       </section>
@@ -179,8 +179,8 @@ export default function Home() {
             className="w-full h-[522px] object-cover opacity-40"
           />
         </div>
-        <div className="text-white absolute bottom-10 left-16  flex flex-col items-start justify-center gap-6">
-          <p className="text-4xl flex items-center gap-4">
+        <div className="text-white absolute bottom-10 sm:left-16 left-2  flex flex-col items-start justify-center gap-6">
+          <p className="sm:text-4xl text-2xl flex items-center gap-4 font-thin">
             sravanpuli2002@gmail.com{" "}
             <span>
               <MdOutlineMail />
@@ -189,12 +189,12 @@ export default function Home() {
               <FaRegCopy />
             </span>
           </p>
-          <p className="text-2xl font-bold">
+          <p className="sm:text-3xl text-2xl font-bold">
             come, let&apos;s go for a coffee!! ☕ 🧋
           </p>
         </div>
       </section>
-      <section className="flex items-center justify-center gap-8 py-10 text-black">
+      <section className="flex flex-wrap items-center justify-center gap-8 py-10 text-black">
         <div className="rounded-full p-3 bg-[#191919]/10 ">
           <FaBehance className=" w-6 h-6 " />
         </div>

@@ -8,6 +8,16 @@ import { RiBuilding2Fill, RiPencilRuler2Fill } from "react-icons/ri";
 function page() {
   return (
     <div className="w-full h-full bg-white flex flex-col items-center">
+      <div className="w-full bg-[#E3DFDA] text-black py-4 sm:px-40 px-5 flex flex-row items-center gap-2">
+        <p className="text-sm bg-[#31BDA3] py-1 px-2 rounded-full text-white font-light">
+          IMP
+        </p>
+        <p className="text-sm">
+          I have worked for 20+ clients across multiple sectors and domains
+          ranging from Fintech, Healthcare, Commerce and many more. Those
+          projects can be displayed upon request.
+        </p>
+      </div>
       <div className="w-full">
         <Header />
       </div>
@@ -17,9 +27,9 @@ function page() {
           {projects.map((item) => (
             <div
               key={item.id}
-              className="flex flex-row items-center justify-center gap-8 w-[940px] h-[564px] px-12 py-14"
+              className="flex sm:flex-row flex-col items-center justify-center gap-8 sm:w-[940px] sm:h-[564px] w-full h-auto sm:px-12 px-5 py-14"
             >
-              <div className="flex-1">
+              <div className="flex-1 w-full">
                 <Image
                   src={item.image}
                   alt=""
@@ -28,9 +38,9 @@ function page() {
                   className="w-full h-full object-contain"
                 />
               </div>
-              <div className="flex-1 flex flex-col items-start justify-start gap-4 w-full h-full py-10">
-                <p className="text-sm text-[#31BDA3]">{item.id}</p>
-                <h2 className="text-4xl font-bold pt-4">{item.title}</h2>
+              <div className="flex-1 flex flex-col items-start justify-start gap-4 w-full h-full sm:py-10 py-2">
+                <p className="text-sm font-bold text-[#31BDA3]">{item.id}</p>
+                <h2 className="text-5xl font-bold pt-4">{item.title}</h2>
                 <p className="pt-2">{item.description}</p>
                 <p className="flex items-center gap-2 pt-4">
                   <span>
@@ -45,7 +55,7 @@ function page() {
                   </span>
                   {item.research}
                 </p>
-                <Button className="rounded-full py-6 px-8 bg-[#31BDA3] mt-4">
+                <Button className="rounded-full py-6 px-8 bg-[#31BDA3] hover:bg-[#155D62] mt-4">
                   View Case Study
                 </Button>
               </div>
@@ -53,7 +63,7 @@ function page() {
           ))}
         </div>
       </section>
-      <section className="my-16 w-[940px] h-[400px] border border-[#191919]/20 flex flex-col items-center justify-center gap-4 rounded-2xl px-40 py-32">
+      <section className="my-16 sm:w-[940px] w-full sm:h-[400px] h-auto border border-[#191919]/20 flex flex-col items-center justify-center gap-4 rounded-2xl sm:px-40 px-5 sm:py-32 py-8">
         <p className="text-lg ">HAD A PROJECT IN MIND</p>
         <h2 className="text-6xl font-bold text-[#31BDA3]">Let&apos;s Talk!</h2>
         <p className="text-center pt-8">
@@ -62,7 +72,7 @@ function page() {
           together!
         </p>
         <Button
-          className="rounded-full py-6 px-8 border-[#31BDA3] text-[#31BDA3]"
+          className="rounded-full py-6 px-8 border-[#31BDA3] text-[#31BDA3] hover:border-[#E3DFDA] hover:bg-[#E3DFDA]"
           variant="outline"
         >
           Contact Me
