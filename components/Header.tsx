@@ -33,7 +33,7 @@ function Header() {
           href="/"
           className={`text-sm ${isActive(
             "/"
-          )} hover:text-[#31BDA3] hover:bg-gray-200 px-4 py-2 rounded-full transition-all duration-300 ease-in-out`}
+          )}  hover:bg-gray-200 px-4 py-2 rounded-full transition-all duration-300 ease-in-out`}
         >
           Home
         </Link>
@@ -44,7 +44,7 @@ function Header() {
           href="/projects"
           className={`text-sm ${isActive(
             "/projects"
-          )} hover:text-[#31BDA3] hover:bg-gray-200 px-4 py-2 rounded-full transition-all duration-300 ease-in-out`}
+          )}  hover:bg-gray-200 px-4 py-2 rounded-full transition-all duration-300 ease-in-out`}
         >
           Work
         </Link>
@@ -52,7 +52,7 @@ function Header() {
           href="/resume"
           className={`text-sm ${isActive(
             "/resume"
-          )} hover:text-[#31BDA3] hover:bg-gray-200 px-4 py-2 rounded-full transition-all duration-300 ease-in-out`}
+          )}  hover:bg-gray-200 px-4 py-2 rounded-full transition-all duration-300 ease-in-out`}
         >
           Resume
         </Link>

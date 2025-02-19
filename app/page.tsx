@@ -72,6 +72,7 @@ export default function Home() {
               More About Me
             </Button>
             <Button
+              onClick={() => router.push("/projects")}
               className="rounded-full py-6 px-8 border-[#31BDA3] text-[#31BDA3] hover:border-[#E3DFDA] hover:bg-[#E3DFDA]"
               variant="outline"
             >
