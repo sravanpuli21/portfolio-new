@@ -3,13 +3,13 @@
     "profilePhoto": "/content/media/profilePhoto.jpg",
     "username": "sravanpuli",
     "displayName": "Sravan Puli",
-    "profession": "Founder & UX Designer",
-    "location": "Savannah, USA",
+    "profession": "Founder & Design Researcher",
+    "location": "Savannah, Georgia, USA",
     "pronouns": "He/Him",
-    "byline": "Founder & UX Designer in Savannah, USA, He/Him",
-    "website": "sravanpuli.in",
-    "websiteURL": "http://sravanpuli.in",
-    "about": "Heyyyyoooooo\nI'm Sravan!!\nI'm an experienced designer and adventurous photographer with an unwavering passion for technology. I love exploring new fields and trying the latest gadgets. Adept at problem-solving with a blend of creativity and analytical thinking, I capture mesmerizing travel wonders and enticing food flavors through my lens. Let's embark on an exhilarating journey, merging innovation, problem-solving, and artistic storytelling to create exceptional experiences together.",
+    "byline": "Founder & Design Researcher in Savannah, Georgia, USA, He/Him",
+    "website": "sravanpuli.com",
+    "websiteURL": "http://sravanpuli.com",
+    "about": "Heyyyyooo \\\nI'm Sravan!!\n\nI started as an engineer, but I've always loved design. Solving problems and creating things that people enjoy using – that's what excites me. So, I became a UX Designer. I worked with lots of startups, and eventually, I started my own design agency, WE Agency. WE help businesses create amazing experiences for their customers and build products from scratch.\n\nBut my passion for creating goes beyond the digital world. I'm a techie at heart, always curious about the latest gadgets and how they can improve our lives. And that curiosity extends to the world around me. I love to travel, and discover the unique flavors each place has to offer.\n\nRight now, I'm back to school and adding another dimension to my journey by pursuing a Masters in Business and Innovation at SCAD.",
     "status": {
       "text": null,
       "emoji": null,
@@ -20,12 +20,12 @@
       "Projects",
       "Education",
       "Certifications",
+      "Writing",
+      "Contact",
       "Exhibitions",
       "Side Projects",
       "Volunteering",
       "Speaking",
-      "Contact",
-      "Writing",
       "Awards",
       "Features",
       "Teams"
@@ -38,23 +38,47 @@
       "heading": "Blueton at We Think App",
       "url": "http://wethinkapp.com",
       "collaborators": [],
-      "description": "",
+      "description": "Spearheaded the UX research and design for Blueton Analytics, a groundbreaking, cloud-based Manufacturing Execution System (MES) platform, and the first to offer an all-encompassing solution in the industry. My role involved conducting in-depth user research and designing a seamless interface that integrates diverse functionalities including HRMS, employee management, machine and shift scheduling, floor mapping, and modules for Work Order, Production, People, Projects, Machine, Inventory, Process, and Facility management. This holistic approach enables manufacturers to gain unparalleled control and visibility over their entire production and operational ecosystem, enhancing efficiency across all levels.",
       "attachments": [],
       "type": "project",
       "title": "Blueton",
       "company": "We Think App"
     },
     {
-      "id": "AHZ8PUrXcy8rXv0fcT5O",
-      "year": "2023",
-      "heading": "Website Redesign at Maarthala Solutions",
-      "url": null,
+      "id": "Wn6vlJuPBZfMFpXioOli",
+      "year": "2024",
+      "heading": "Ausbildung Assist at Marthala Solutions",
+      "url": "https://www.ausbildung-assist.de/",
       "collaborators": [],
-      "description": "Showcasing a sleek and intuitive website design for an education consultancy service. Seamlessly blending functionality and aesthetics, I crafted a user-centered experience to empower students in their educational journey..",
+      "description": "Ausbildung Assist is an innovative platform designed to revolutionize the Ausbildung recruitment process. \"Ausbildung\" refers to a system of vocational education and training prevalent in German-speaking countries, where students combine part-time academic study with apprenticeships in various industries. This dual system allows students to gain practical experience while completing their education.\n\nThe platform, Ausbildung Assist, was developed to address the gap between talented students seeking apprenticeships and industry leaders looking for skilled apprentices. By creating a multi-user CRM (Customer Relationship Management) system, the platform enables efficient application processing, tracking, and management for both internal users (such as recruiters and training managers) and applicants.",
       "attachments": [],
       "type": "project",
-      "title": "Website Redesign",
-      "company": "Maarthala Solutions"
+      "title": "Ausbildung Assist",
+      "company": "Marthala Solutions"
+    },
+    {
+      "id": "V8xdHQvyqmrB1AiGVelM",
+      "year": "2023",
+      "heading": "Medvarsity",
+      "url": "https://www.medvarsity.com/",
+      "collaborators": [],
+      "description": "Medvarsity is Asia's largest healthcare EdTech company, accredited by the British Accreditation Council. It offers over 200 blended learning courses designed for healthcare professionals, including doctors, nurses, and other medical staff. Medvarsity's programs span various specialties and aim to enhance the skills and qualifications of healthcare practitioners through certificates and fellowships. The platform supports a global community of learners and provides practical, skill-based education that can be directly applied in healthcare settings.",
+      "attachments": [],
+      "type": "project",
+      "title": "Medvarsity",
+      "company": ""
+    },
+    {
+      "id": "NoE2ZbYS5XwQQlOojecN",
+      "year": "2023",
+      "heading": "KLIP",
+      "url": "https://www.klipglobal.com/",
+      "collaborators": [],
+      "description": "Klipglobal is a workforce wellbeing and development service that provides personalized, holistic, science-backed plans to help employees lead healthier and more fulfilled lives. The platform aims to enhance the wellbeing of employees, which in turn supports the success and strategic delivery of their organizations. Klipglobal offers a variety of services, including live masterclasses, wellness programs, and tools for monitoring and achieving wellbeing goals. These services are designed to help individuals and organizations thrive by improving mental health, engagement, and productivity.",
+      "attachments": [],
+      "type": "project",
+      "title": "KLIP",
+      "company": ""
     },
     {
       "id": "iedSRZ5tHhu98JamBJTv",
@@ -62,7 +86,7 @@
       "heading": "DocTutorial Mobile App at DocTutorial",
       "url": "http://doctutorial.com",
       "collaborators": [],
-      "description": "",
+      "description": "DocTutorials is a comprehensive digital learning platform specifically designed for medical students, professionals preparing for competitive exams such as NEET PG, FMGE, and NEET SS. It offers a wide array of resources including expertly crafted video lectures, extensive question banks (Qbanks), interactive live classes, and rigorous mock tests, all aimed at enhancing exam preparedness. The platform's content is developed by experienced medical practitioners and educators, ensuring that students receive high-quality guidance and support throughout their preparation journey.",
       "attachments": [],
       "type": "project",
       "title": "DocTutorial Mobile App",
@@ -81,16 +105,16 @@
       "company": null
     },
     {
-      "id": "p9gZIA7pkWj6NZ1Col8E",
+      "id": "AHZ8PUrXcy8rXv0fcT5O",
       "year": "2023",
-      "heading": "Pilgrimage",
-      "url": "https://www.behance.net/gallery/171828953/Pilgrimage-Mobile-Application-Case-Study",
+      "heading": "Website Redesign at Maarthala Solutions",
+      "url": null,
       "collaborators": [],
-      "description": "Pilgrimage is the essential mobile application for pilgrims embarking on sacred journeys, Seamlessly navigate your pilgrimage with ease as you access a treasure trove of vital information and resources.From routes to accommodation options.",
+      "description": "Showcasing a sleek and intuitive website design for an education consultancy service. Seamlessly blending functionality and aesthetics, I crafted a user-centered experience to empower students in their educational journey..",
       "attachments": [],
       "type": "project",
-      "title": "Pilgrimage",
-      "company": null
+      "title": "Website Redesign",
+      "company": "Maarthala Solutions"
     },
     {
       "id": "XzFjszRvfx9d4Uzryo0l",
@@ -105,15 +129,15 @@
       "company": "Qurinom Solutions"
     },
     {
-      "id": "awIgQ9qGkzrpEeOy3CAq",
-      "year": "2022",
-      "heading": "BlackON",
-      "url": "https://www.behance.net/gallery/171834909/Black-On-ecommerce-Website-App",
+      "id": "p9gZIA7pkWj6NZ1Col8E",
+      "year": "2023",
+      "heading": "Pilgrimage",
+      "url": "https://www.behance.net/gallery/171828953/Pilgrimage-Mobile-Application-Case-Study",
       "collaborators": [],
-      "description": "BlackOn is a ecom website and mobile applications where you can find many cloths only in colour of black",
+      "description": "Pilgrimage is the essential mobile application for pilgrims embarking on sacred journeys, Seamlessly navigate your pilgrimage with ease as you access a treasure trove of vital information and resources.From routes to accommodation options.",
       "attachments": [],
       "type": "project",
-      "title": "BlackON",
+      "title": "Pilgrimage",
       "company": null
     },
     {
@@ -126,6 +150,18 @@
       "attachments": [],
       "type": "project",
       "title": "TrackMate",
+      "company": null
+    },
+    {
+      "id": "awIgQ9qGkzrpEeOy3CAq",
+      "year": "2022",
+      "heading": "BlackON",
+      "url": "https://www.behance.net/gallery/171834909/Black-On-ecommerce-Website-App",
+      "collaborators": [],
+      "description": "BlackOn is a ecom website and mobile applications where you can find many cloths only in colour of black",
+      "attachments": [],
+      "type": "project",
+      "title": "BlackON",
       "company": null
     },
     {
@@ -144,7 +180,32 @@
   "sideProjects": [],
   "exhibitions": [],
   "talks": [],
-  "writing": [],
+  "writing": [
+    {
+      "id": "DvmOpnZMiGLyDVC7vv3V",
+      "year": "2025",
+      "heading": "Blinking Lights: A Blind Spot, Medium",
+      "url": "https://medium.com/@sravanpuli/blinking-lights-a-blind-spot-e36de6f9d3cf",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "writing",
+      "title": "Blinking Lights: A Blind Spot",
+      "publisher": "Medium"
+    },
+    {
+      "id": "e8KhfKjYdSFWGBgwsIp3",
+      "year": "2025",
+      "heading": "Is Accessibility Still My Problem in 2025? A UI/UX Designer’s Perspective, Medium",
+      "url": "https://medium.com/@sravanpuli/is-accessibility-still-my-problem-in-2025-a-ui-ux-designers-perspective-35a7d2ddd29e",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "writing",
+      "title": "Is Accessibility Still My Problem in 2025? A UI/UX Designer’s Perspective",
+      "publisher": "Medium"
+    }
+  ],
   "awards": [],
   "features": [],
   "workExperience": [
@@ -152,14 +213,14 @@
       "id": "U3qhMvtXBNT6PFHMAoA8",
       "year": "2023 — Now",
       "heading": "Founder & CEO at WE Design",
-      "url": null,
+      "url": "http://weagency.in",
       "collaborators": [],
       "description": "",
       "attachments": [],
       "type": "workExperience",
       "title": "Founder & CEO",
       "company": "WE Design",
-      "location": "Hyderabad"
+      "location": "Hyderabad, India"
     },
     {
       "id": "9o5EUQKR31c18rPrh73P",
@@ -172,46 +233,46 @@
       "type": "workExperience",
       "title": "UX Designer",
       "company": "WTA Design Studio",
-      "location": "Hyderabad"
+      "location": "Hyderabad, India"
     },
     {
       "id": "0eXIADnGU9wzXIOZEURY",
       "year": "2023 — 2023",
       "heading": "UX UI designer at Webileapps",
-      "url": null,
+      "url": "https://teamwa.com/",
       "collaborators": [],
       "description": "",
       "attachments": [],
       "type": "workExperience",
       "title": "UX UI designer",
       "company": "Webileapps",
-      "location": "Hyderabad"
+      "location": "Hyderabad, India"
     },
     {
       "id": "5YtS824Yz2IIsmyBO9b2",
       "year": "2022 — 2023",
       "heading": "UX UI Designer at Qurinom Solutions",
-      "url": null,
+      "url": "https://qurinomsolutions.com/",
       "collaborators": [],
-      "description": null,
+      "description": "",
       "attachments": [],
       "type": "workExperience",
       "title": "UX UI Designer",
       "company": "Qurinom Solutions",
-      "location": "Hyderabad"
+      "location": "Remote"
     },
     {
       "id": "DvHWHmpnPeA675NK7wk1",
       "year": "2021 — 2022",
       "heading": "UX UI Designer at Informatics India",
-      "url": null,
+      "url": "https://informaticsindia.com/",
       "collaborators": [],
-      "description": null,
+      "description": "",
       "attachments": [],
       "type": "workExperience",
       "title": "UX UI Designer",
       "company": "Informatics India",
-      "location": "Hyderabad"
+      "location": "Hyderabad, India"
     }
   ],
   "volunteering": [
@@ -262,7 +323,7 @@
       "heading": "BTech at Mahatma Gandhi Institute of Technology",
       "url": "http://mgit.ac.in",
       "collaborators": [],
-      "description": "Major: ECE\nCGPA: 3.2/4",
+      "description": "Major: Electronics & Communications",
       "attachments": [],
       "type": "education",
       "degree": "BTech",
@@ -275,7 +336,7 @@
       "heading": "Intermediate at Fiitjee",
       "url": "http://www.fiitjee.com",
       "collaborators": [],
-      "description": "Board: TSBIE\nPercentage: 85%\nMPC",
+      "description": "",
       "attachments": [],
       "type": "education",
       "degree": "Intermediate",
@@ -284,14 +345,14 @@
     },
     {
       "id": "kRQWz1wFCBqHr36561hI",
-      "year": "",
-      "heading": "Secondary School Education at Talent School",
+      "year": "2006 — 2017",
+      "heading": "Schooling at Talent School",
       "url": "http://talentschoolspl.com",
       "collaborators": [],
-      "description": "Borad: TSBSC \nGPA: 8.7",
+      "description": "",
       "attachments": [],
       "type": "education",
-      "degree": "Secondary School Education",
+      "degree": "Schooling",
       "school": "Talent School",
       "location": "Sathupalli"
     }
@@ -310,30 +371,6 @@
       "organization": "Google"
     },
     {
-      "id": "JDrKLxI8x6TijPp2yFCc",
-      "year": "2021",
-      "heading": "Introduction To IOT from NPTEL",
-      "url": "https://drive.google.com/file/d/1eZFjDRFmX4Fz10tQmB51LBaWtEqCbyPG/view?usp=drive_link",
-      "collaborators": [],
-      "description": null,
-      "attachments": [],
-      "type": "certification",
-      "name": "Introduction To IOT",
-      "organization": "NPTEL"
-    },
-    {
-      "id": "p3DVLqjkrlu5MZy8WTjX",
-      "year": "2019",
-      "heading": "Programming for Everybody (Getting Started with Python) from Coursera",
-      "url": "https://coursera.org/share/f46262a87fd5b1c294f624cde309a05b",
-      "collaborators": [],
-      "description": null,
-      "attachments": [],
-      "type": "certification",
-      "name": "Programming for Everybody (Getting Started with Python)",
-      "organization": "Coursera"
-    },
-    {
       "id": "s33DeYdJNdiMrmY9WUGr",
       "year": "2019",
       "heading": "Introduction to Programming Using HTML and CSS from Coursera",
@@ -348,6 +385,42 @@
   ],
   "contact": [
     {
+      "id": "YZWai8BE6RMaCUvGmUhq",
+      "platform": "Website",
+      "handle": "sravanpuli.com",
+      "url": "http://sravanpuli.com"
+    },
+    {
+      "id": "7N2HIlDSJY4MoNxuAIyD",
+      "platform": "Website",
+      "handle": "bento.me/sravanpuli",
+      "url": "http://bento.me/sravanpuli"
+    },
+    {
+      "id": "50ZeCWZO8nIUkg2ODmDN",
+      "platform": "LinkedIn",
+      "handle": "sravanpuli",
+      "url": "https://linkedin.com/in/sravanpuli"
+    },
+    {
+      "id": "JCLmDb6vQ4RfiucOfltT",
+      "platform": "Medium",
+      "handle": "sravanpuli",
+      "url": "https://medium.com/@sravanpuli"
+    },
+    {
+      "id": "QTxVyUDPGsGcF9weNZU1",
+      "platform": "Email",
+      "handle": "sravanpuli2002@gmail.com",
+      "url": "mailto:sravanpuli2002@gmail.com"
+    },
+    {
+      "id": "lZkmjDWpHUXvswk894bR",
+      "platform": "Instagram",
+      "handle": "sravan_puli_",
+      "url": "https://instagram.com/sravan_puli_"
+    },
+    {
       "id": "tR99I5TlYeYYw8sIBiqI",
       "platform": "Behance",
       "handle": "Sravan Puli",
@@ -360,30 +433,6 @@
       "url": "https://x.com/SravanPuli21"
     },
     {
-      "id": "QTxVyUDPGsGcF9weNZU1",
-      "platform": "Email",
-      "handle": "sravanpuli2002@gmail.com",
-      "url": "mailto:sravanpuli2002@gmail.com"
-    },
-    {
-      "id": "7N2HIlDSJY4MoNxuAIyD",
-      "platform": "Website",
-      "handle": "bento.me/sravanpuli",
-      "url": "http://bento.me/sravanpuli"
-    },
-    {
-      "id": "YZWai8BE6RMaCUvGmUhq",
-      "platform": "Website",
-      "handle": "sravanpuli.in",
-      "url": "http://sravanpuli.in"
-    },
-    {
-      "id": "50ZeCWZO8nIUkg2ODmDN",
-      "platform": "LinkedIn",
-      "handle": "sravanpuli",
-      "url": "https://linkedin.com/in/sravanpuli"
-    },
-    {
       "id": "dlqxci6W7HUA9iun2r9n",
       "platform": "Youtube",
       "handle": "youtube.com/@pulisravan",
@@ -394,12 +443,6 @@
       "platform": "Twitter",
       "handle": "sravanpuli21",
       "url": "https://twitter.com/sravanpuli21"
-    },
-    {
-      "id": "lZkmjDWpHUXvswk894bR",
-      "platform": "Instagram",
-      "handle": "sravan_puli_",
-      "url": "https://instagram.com/sravan_puli_"
     },
     {
       "id": "X5mwNFTxKF5Nds4beLB8",
@@ -422,14 +465,14 @@
           "id": "U3qhMvtXBNT6PFHMAoA8",
           "year": "2023 — Now",
           "heading": "Founder & CEO at WE Design",
-          "url": null,
+          "url": "http://weagency.in",
           "collaborators": [],
           "description": "",
           "attachments": [],
           "type": "workExperience",
           "title": "Founder & CEO",
           "company": "WE Design",
-          "location": "Hyderabad"
+          "location": "Hyderabad, India"
         },
         {
           "id": "9o5EUQKR31c18rPrh73P",
@@ -442,46 +485,46 @@
           "type": "workExperience",
           "title": "UX Designer",
           "company": "WTA Design Studio",
-          "location": "Hyderabad"
+          "location": "Hyderabad, India"
         },
         {
           "id": "0eXIADnGU9wzXIOZEURY",
           "year": "2023 — 2023",
           "heading": "UX UI designer at Webileapps",
-          "url": null,
+          "url": "https://teamwa.com/",
           "collaborators": [],
           "description": "",
           "attachments": [],
           "type": "workExperience",
           "title": "UX UI designer",
           "company": "Webileapps",
-          "location": "Hyderabad"
+          "location": "Hyderabad, India"
         },
         {
           "id": "5YtS824Yz2IIsmyBO9b2",
           "year": "2022 — 2023",
           "heading": "UX UI Designer at Qurinom Solutions",
-          "url": null,
+          "url": "https://qurinomsolutions.com/",
           "collaborators": [],
-          "description": null,
+          "description": "",
           "attachments": [],
           "type": "workExperience",
           "title": "UX UI Designer",
           "company": "Qurinom Solutions",
-          "location": "Hyderabad"
+          "location": "Remote"
         },
         {
           "id": "DvHWHmpnPeA675NK7wk1",
           "year": "2021 — 2022",
           "heading": "UX UI Designer at Informatics India",
-          "url": null,
+          "url": "https://informaticsindia.com/",
           "collaborators": [],
-          "description": null,
+          "description": "",
           "attachments": [],
           "type": "workExperience",
           "title": "UX UI Designer",
           "company": "Informatics India",
-          "location": "Hyderabad"
+          "location": "Hyderabad, India"
         }
       ]
     },
@@ -494,23 +537,47 @@
           "heading": "Blueton at We Think App",
           "url": "http://wethinkapp.com",
           "collaborators": [],
-          "description": "",
+          "description": "Spearheaded the UX research and design for Blueton Analytics, a groundbreaking, cloud-based Manufacturing Execution System (MES) platform, and the first to offer an all-encompassing solution in the industry. My role involved conducting in-depth user research and designing a seamless interface that integrates diverse functionalities including HRMS, employee management, machine and shift scheduling, floor mapping, and modules for Work Order, Production, People, Projects, Machine, Inventory, Process, and Facility management. This holistic approach enables manufacturers to gain unparalleled control and visibility over their entire production and operational ecosystem, enhancing efficiency across all levels.",
           "attachments": [],
           "type": "project",
           "title": "Blueton",
           "company": "We Think App"
         },
         {
-          "id": "AHZ8PUrXcy8rXv0fcT5O",
-          "year": "2023",
-          "heading": "Website Redesign at Maarthala Solutions",
-          "url": null,
+          "id": "Wn6vlJuPBZfMFpXioOli",
+          "year": "2024",
+          "heading": "Ausbildung Assist at Marthala Solutions",
+          "url": "https://www.ausbildung-assist.de/",
           "collaborators": [],
-          "description": "Showcasing a sleek and intuitive website design for an education consultancy service. Seamlessly blending functionality and aesthetics, I crafted a user-centered experience to empower students in their educational journey..",
+          "description": "Ausbildung Assist is an innovative platform designed to revolutionize the Ausbildung recruitment process. \"Ausbildung\" refers to a system of vocational education and training prevalent in German-speaking countries, where students combine part-time academic study with apprenticeships in various industries. This dual system allows students to gain practical experience while completing their education.\n\nThe platform, Ausbildung Assist, was developed to address the gap between talented students seeking apprenticeships and industry leaders looking for skilled apprentices. By creating a multi-user CRM (Customer Relationship Management) system, the platform enables efficient application processing, tracking, and management for both internal users (such as recruiters and training managers) and applicants.",
           "attachments": [],
           "type": "project",
-          "title": "Website Redesign",
-          "company": "Maarthala Solutions"
+          "title": "Ausbildung Assist",
+          "company": "Marthala Solutions"
+        },
+        {
+          "id": "V8xdHQvyqmrB1AiGVelM",
+          "year": "2023",
+          "heading": "Medvarsity",
+          "url": "https://www.medvarsity.com/",
+          "collaborators": [],
+          "description": "Medvarsity is Asia's largest healthcare EdTech company, accredited by the British Accreditation Council. It offers over 200 blended learning courses designed for healthcare professionals, including doctors, nurses, and other medical staff. Medvarsity's programs span various specialties and aim to enhance the skills and qualifications of healthcare practitioners through certificates and fellowships. The platform supports a global community of learners and provides practical, skill-based education that can be directly applied in healthcare settings.",
+          "attachments": [],
+          "type": "project",
+          "title": "Medvarsity",
+          "company": ""
+        },
+        {
+          "id": "NoE2ZbYS5XwQQlOojecN",
+          "year": "2023",
+          "heading": "KLIP",
+          "url": "https://www.klipglobal.com/",
+          "collaborators": [],
+          "description": "Klipglobal is a workforce wellbeing and development service that provides personalized, holistic, science-backed plans to help employees lead healthier and more fulfilled lives. The platform aims to enhance the wellbeing of employees, which in turn supports the success and strategic delivery of their organizations. Klipglobal offers a variety of services, including live masterclasses, wellness programs, and tools for monitoring and achieving wellbeing goals. These services are designed to help individuals and organizations thrive by improving mental health, engagement, and productivity.",
+          "attachments": [],
+          "type": "project",
+          "title": "KLIP",
+          "company": ""
         },
         {
           "id": "iedSRZ5tHhu98JamBJTv",
@@ -518,7 +585,7 @@
           "heading": "DocTutorial Mobile App at DocTutorial",
           "url": "http://doctutorial.com",
           "collaborators": [],
-          "description": "",
+          "description": "DocTutorials is a comprehensive digital learning platform specifically designed for medical students, professionals preparing for competitive exams such as NEET PG, FMGE, and NEET SS. It offers a wide array of resources including expertly crafted video lectures, extensive question banks (Qbanks), interactive live classes, and rigorous mock tests, all aimed at enhancing exam preparedness. The platform's content is developed by experienced medical practitioners and educators, ensuring that students receive high-quality guidance and support throughout their preparation journey.",
           "attachments": [],
           "type": "project",
           "title": "DocTutorial Mobile App",
@@ -537,16 +604,16 @@
           "company": null
         },
         {
-          "id": "p9gZIA7pkWj6NZ1Col8E",
+          "id": "AHZ8PUrXcy8rXv0fcT5O",
           "year": "2023",
-          "heading": "Pilgrimage",
-          "url": "https://www.behance.net/gallery/171828953/Pilgrimage-Mobile-Application-Case-Study",
+          "heading": "Website Redesign at Maarthala Solutions",
+          "url": null,
           "collaborators": [],
-          "description": "Pilgrimage is the essential mobile application for pilgrims embarking on sacred journeys, Seamlessly navigate your pilgrimage with ease as you access a treasure trove of vital information and resources.From routes to accommodation options.",
+          "description": "Showcasing a sleek and intuitive website design for an education consultancy service. Seamlessly blending functionality and aesthetics, I crafted a user-centered experience to empower students in their educational journey..",
           "attachments": [],
           "type": "project",
-          "title": "Pilgrimage",
-          "company": null
+          "title": "Website Redesign",
+          "company": "Maarthala Solutions"
         },
         {
           "id": "XzFjszRvfx9d4Uzryo0l",
@@ -561,15 +628,15 @@
           "company": "Qurinom Solutions"
         },
         {
-          "id": "awIgQ9qGkzrpEeOy3CAq",
-          "year": "2022",
-          "heading": "BlackON",
-          "url": "https://www.behance.net/gallery/171834909/Black-On-ecommerce-Website-App",
+          "id": "p9gZIA7pkWj6NZ1Col8E",
+          "year": "2023",
+          "heading": "Pilgrimage",
+          "url": "https://www.behance.net/gallery/171828953/Pilgrimage-Mobile-Application-Case-Study",
           "collaborators": [],
-          "description": "BlackOn is a ecom website and mobile applications where you can find many cloths only in colour of black",
+          "description": "Pilgrimage is the essential mobile application for pilgrims embarking on sacred journeys, Seamlessly navigate your pilgrimage with ease as you access a treasure trove of vital information and resources.From routes to accommodation options.",
           "attachments": [],
           "type": "project",
-          "title": "BlackON",
+          "title": "Pilgrimage",
           "company": null
         },
         {
@@ -582,6 +649,18 @@
           "attachments": [],
           "type": "project",
           "title": "TrackMate",
+          "company": null
+        },
+        {
+          "id": "awIgQ9qGkzrpEeOy3CAq",
+          "year": "2022",
+          "heading": "BlackON",
+          "url": "https://www.behance.net/gallery/171834909/Black-On-ecommerce-Website-App",
+          "collaborators": [],
+          "description": "BlackOn is a ecom website and mobile applications where you can find many cloths only in colour of black",
+          "attachments": [],
+          "type": "project",
+          "title": "BlackON",
           "company": null
         },
         {
@@ -620,7 +699,7 @@
           "heading": "BTech at Mahatma Gandhi Institute of Technology",
           "url": "http://mgit.ac.in",
           "collaborators": [],
-          "description": "Major: ECE\nCGPA: 3.2/4",
+          "description": "Major: Electronics & Communications",
           "attachments": [],
           "type": "education",
           "degree": "BTech",
@@ -633,7 +712,7 @@
           "heading": "Intermediate at Fiitjee",
           "url": "http://www.fiitjee.com",
           "collaborators": [],
-          "description": "Board: TSBIE\nPercentage: 85%\nMPC",
+          "description": "",
           "attachments": [],
           "type": "education",
           "degree": "Intermediate",
@@ -642,14 +721,14 @@
         },
         {
           "id": "kRQWz1wFCBqHr36561hI",
-          "year": "",
-          "heading": "Secondary School Education at Talent School",
+          "year": "2006 — 2017",
+          "heading": "Schooling at Talent School",
           "url": "http://talentschoolspl.com",
           "collaborators": [],
-          "description": "Borad: TSBSC \nGPA: 8.7",
+          "description": "",
           "attachments": [],
           "type": "education",
-          "degree": "Secondary School Education",
+          "degree": "Schooling",
           "school": "Talent School",
           "location": "Sathupalli"
         }
@@ -671,30 +750,6 @@
           "organization": "Google"
         },
         {
-          "id": "JDrKLxI8x6TijPp2yFCc",
-          "year": "2021",
-          "heading": "Introduction To IOT from NPTEL",
-          "url": "https://drive.google.com/file/d/1eZFjDRFmX4Fz10tQmB51LBaWtEqCbyPG/view?usp=drive_link",
-          "collaborators": [],
-          "description": null,
-          "attachments": [],
-          "type": "certification",
-          "name": "Introduction To IOT",
-          "organization": "NPTEL"
-        },
-        {
-          "id": "p3DVLqjkrlu5MZy8WTjX",
-          "year": "2019",
-          "heading": "Programming for Everybody (Getting Started with Python) from Coursera",
-          "url": "https://coursera.org/share/f46262a87fd5b1c294f624cde309a05b",
-          "collaborators": [],
-          "description": null,
-          "attachments": [],
-          "type": "certification",
-          "name": "Programming for Everybody (Getting Started with Python)",
-          "organization": "Coursera"
-        },
-        {
           "id": "s33DeYdJNdiMrmY9WUGr",
           "year": "2019",
           "heading": "Introduction to Programming Using HTML and CSS from Coursera",
@@ -705,6 +760,112 @@
           "type": "certification",
           "name": "Introduction to Programming Using HTML and CSS",
           "organization": "Coursera"
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "DvmOpnZMiGLyDVC7vv3V",
+          "year": "2025",
+          "heading": "Blinking Lights: A Blind Spot, Medium",
+          "url": "https://medium.com/@sravanpuli/blinking-lights-a-blind-spot-e36de6f9d3cf",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "writing",
+          "title": "Blinking Lights: A Blind Spot",
+          "publisher": "Medium"
+        },
+        {
+          "id": "e8KhfKjYdSFWGBgwsIp3",
+          "year": "2025",
+          "heading": "Is Accessibility Still My Problem in 2025? A UI/UX Designer’s Perspective, Medium",
+          "url": "https://medium.com/@sravanpuli/is-accessibility-still-my-problem-in-2025-a-ui-ux-designers-perspective-35a7d2ddd29e",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "writing",
+          "title": "Is Accessibility Still My Problem in 2025? A UI/UX Designer’s Perspective",
+          "publisher": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "YZWai8BE6RMaCUvGmUhq",
+          "platform": "Website",
+          "handle": "sravanpuli.com",
+          "url": "http://sravanpuli.com"
+        },
+        {
+          "id": "7N2HIlDSJY4MoNxuAIyD",
+          "platform": "Website",
+          "handle": "bento.me/sravanpuli",
+          "url": "http://bento.me/sravanpuli"
+        },
+        {
+          "id": "50ZeCWZO8nIUkg2ODmDN",
+          "platform": "LinkedIn",
+          "handle": "sravanpuli",
+          "url": "https://linkedin.com/in/sravanpuli"
+        },
+        {
+          "id": "JCLmDb6vQ4RfiucOfltT",
+          "platform": "Medium",
+          "handle": "sravanpuli",
+          "url": "https://medium.com/@sravanpuli"
+        },
+        {
+          "id": "QTxVyUDPGsGcF9weNZU1",
+          "platform": "Email",
+          "handle": "sravanpuli2002@gmail.com",
+          "url": "mailto:sravanpuli2002@gmail.com"
+        },
+        {
+          "id": "lZkmjDWpHUXvswk894bR",
+          "platform": "Instagram",
+          "handle": "sravan_puli_",
+          "url": "https://instagram.com/sravan_puli_"
+        },
+        {
+          "id": "tR99I5TlYeYYw8sIBiqI",
+          "platform": "Behance",
+          "handle": "Sravan Puli",
+          "url": "https://www.behance.net/sravanpuli"
+        },
+        {
+          "id": "T6jypPbF5scGTW5364Te",
+          "platform": "X",
+          "handle": "SravanPuli21",
+          "url": "https://x.com/SravanPuli21"
+        },
+        {
+          "id": "dlqxci6W7HUA9iun2r9n",
+          "platform": "Youtube",
+          "handle": "youtube.com/@pulisravan",
+          "url": "http://youtube.com/@pulisravan"
+        },
+        {
+          "id": "pQ3glLMa9eHkMuTw2sI9",
+          "platform": "Twitter",
+          "handle": "sravanpuli21",
+          "url": "https://twitter.com/sravanpuli21"
+        },
+        {
+          "id": "X5mwNFTxKF5Nds4beLB8",
+          "platform": "GitHub",
+          "handle": "sravanpuli21",
+          "url": "https://github.com/sravanpuli21"
+        },
+        {
+          "id": "W60dcUrqL1dbSQKn6KPR",
+          "platform": "Facebook",
+          "handle": "sravanpuli21",
+          "url": "https://facebook.com/sravanpuli21"
         }
       ]
     },
@@ -736,77 +897,6 @@
           "title": "Co-ordinator",
           "organization": "Street Cause",
           "location": "Hyderabad"
-        }
-      ]
-    },
-    {
-      "name": "Contact",
-      "items": [
-        {
-          "id": "tR99I5TlYeYYw8sIBiqI",
-          "platform": "Behance",
-          "handle": "Sravan Puli",
-          "url": "https://www.behance.net/sravanpuli"
-        },
-        {
-          "id": "T6jypPbF5scGTW5364Te",
-          "platform": "X",
-          "handle": "SravanPuli21",
-          "url": "https://x.com/SravanPuli21"
-        },
-        {
-          "id": "QTxVyUDPGsGcF9weNZU1",
-          "platform": "Email",
-          "handle": "sravanpuli2002@gmail.com",
-          "url": "mailto:sravanpuli2002@gmail.com"
-        },
-        {
-          "id": "7N2HIlDSJY4MoNxuAIyD",
-          "platform": "Website",
-          "handle": "bento.me/sravanpuli",
-          "url": "http://bento.me/sravanpuli"
-        },
-        {
-          "id": "YZWai8BE6RMaCUvGmUhq",
-          "platform": "Website",
-          "handle": "sravanpuli.in",
-          "url": "http://sravanpuli.in"
-        },
-        {
-          "id": "50ZeCWZO8nIUkg2ODmDN",
-          "platform": "LinkedIn",
-          "handle": "sravanpuli",
-          "url": "https://linkedin.com/in/sravanpuli"
-        },
-        {
-          "id": "dlqxci6W7HUA9iun2r9n",
-          "platform": "Youtube",
-          "handle": "youtube.com/@pulisravan",
-          "url": "http://youtube.com/@pulisravan"
-        },
-        {
-          "id": "pQ3glLMa9eHkMuTw2sI9",
-          "platform": "Twitter",
-          "handle": "sravanpuli21",
-          "url": "https://twitter.com/sravanpuli21"
-        },
-        {
-          "id": "lZkmjDWpHUXvswk894bR",
-          "platform": "Instagram",
-          "handle": "sravan_puli_",
-          "url": "https://instagram.com/sravan_puli_"
-        },
-        {
-          "id": "X5mwNFTxKF5Nds4beLB8",
-          "platform": "GitHub",
-          "handle": "sravanpuli21",
-          "url": "https://github.com/sravanpuli21"
-        },
-        {
-          "id": "W60dcUrqL1dbSQKn6KPR",
-          "platform": "Facebook",
-          "handle": "sravanpuli21",
-          "url": "https://facebook.com/sravanpuli21"
         }
       ]
     }

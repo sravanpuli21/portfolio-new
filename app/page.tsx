@@ -40,8 +40,8 @@ export default function Home() {
         </div>
         <div className="sm:w-2/6 w-full space-y-4">
           <p className="text-sm text-[#31BDA3] font-bold">HEY</p>
-          <p className="sm:text-4xl text-3xl font-bold ">Hey, I am Sravan!.</p>
-          <p className="sm:text-4xl text-3xl font-bold my-2">
+          <p className="sm:text-3xl text-3xl font-bold ">Hey, I am Sravan!.</p>
+          <p className="sm:text-3xl text-3xl font-bold my-2">
             I love{" "}
             <span className="border-b-4  border-[#31BDA3] py-1">
               {" "}
@@ -49,8 +49,7 @@ export default function Home() {
             </span>
           </p>
           <p className="text-sm text-[#333333] py-4 tracking-wider font-normal">
-            Product Designer based out of Atlanta. Professional UX <br />{" "}
-            experience in{" "}
+            Design Researcher. Professional UX <br /> experience in{" "}
             <span className=" text-black underline underline-offset-2 font-semibold">
               B2B spaces
             </span>{" "}
@@ -61,8 +60,10 @@ export default function Home() {
             </span>
           </p>
           <a
-            href="https://www.scad.edu/academics/programs/design-management"
+            href="https://www.scad.edu/academics/programs/design-management "
             className="text-sm font-semibold border-b-2 border-black w-fit my-2 cursor-pointer"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             SCAD ’ Savannah 🎓
           </a>
