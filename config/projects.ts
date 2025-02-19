@@ -7,6 +7,7 @@ export const projects = [
     image: "/doc.png",
     education: "Ed-Tech, Medical Education",
     research: "Research, Product Design",
+    route: "/projects/doc",
   },
   {
     id: "02",
@@ -16,6 +17,7 @@ export const projects = [
     image: "/farm-food.png",
     education: "Agriculture, D2C",
     research: "Research, Product Design",
+    route: "/projects/farmfood",
   },
   {
     id: "03",
@@ -25,6 +27,7 @@ export const projects = [
     image: "/klip.png",
     education: "Healthcare, SaaS",
     research: "Research, Product Design",
+    route: "/projects/klip",
   },
   {
     id: "04",
@@ -34,5 +37,6 @@ export const projects = [
     image: "/medvarsity.png",
     education: "Healthcare, Career Development",
     research: "Research, Product Design",
+    route: "/projects/medvarsity",
   },
 ];

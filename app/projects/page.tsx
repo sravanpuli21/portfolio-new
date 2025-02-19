@@ -1,11 +1,14 @@
+"use client";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import { Button } from "@/components/ui/button";
 import { projects } from "@/config/projects";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import { RiBuilding2Fill, RiPencilRuler2Fill } from "react-icons/ri";
 
-function page() {
+function Page() {
+  const router = useRouter();
   return (
     <div className="w-full h-full bg-white flex flex-col items-center">
       <div className="w-full bg-[#E3DFDA] text-black py-4 sm:px-40 px-5 flex flex-row items-center gap-2">
@@ -55,7 +58,10 @@ function page() {
                   </span>
                   {item.research}
                 </p>
-                <Button className="rounded-full py-6 px-8 bg-[#31BDA3] hover:bg-[#155D62] mt-4">
+                <Button
+                  onClick={() => router.push(item.route)}
+                  className="rounded-full py-6 px-8 bg-[#31BDA3] hover:bg-[#155D62] mt-4"
+                >
                   View Case Study
                 </Button>
               </div>
@@ -85,4 +91,4 @@ function page() {
   );
 }
 
-export default page;
+export default Page;

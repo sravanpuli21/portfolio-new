@@ -12,7 +12,7 @@ export default async function Home() {
   const cv = JSON.parse(file);
 
   return (
-    <div className="w-full h-full">
+    <div className="w-full h-full bg-white">
       <Header />
       <div className={styles.page}>
         <Profile cv={cv} />

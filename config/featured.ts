@@ -7,6 +7,7 @@ export const featured = [
     image: "/doc.png",
     education: "Ed-Tech, Medical Education",
     research: "Research, Product Design",
+    route: "/projects/doc",
   },
   {
     id: "02",
@@ -16,6 +17,7 @@ export const featured = [
     image: "/farm-food.png",
     education: "Agriculture, D2C",
     research: "Research, Product Design",
+    route: "/projects/farmfood",
   },
   {
     id: "03",
@@ -25,5 +27,6 @@ export const featured = [
     image: "/klip.png",
     education: "Healthcare, SaaS",
     research: "Research, Product Design",
+    route: "/projects/klip",
   },
 ];

@@ -2,9 +2,10 @@
 import Image from "next/image";
 import { Button } from "./ui/button";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { useState } from "react";
 function Header() {
+  const router = useRouter();
   const pathname = usePathname();
   const [logoSrc, setLogoSrc] = useState("/logo-d.png");
 
@@ -14,9 +15,10 @@ function Header() {
   return (
     <header className="flex items-center px-10 py-4 justify-between">
       <div
-        className="w-40 relative"
+        className="w-40 relative cursor-pointer"
         onMouseEnter={() => setLogoSrc("/logo-h.png")} // Change this to your hover image
         onMouseLeave={() => setLogoSrc("/logo-d.png")}
+        onClick={() => router.push("/")}
       >
         <Image
           src={logoSrc}
@@ -56,9 +58,11 @@ function Header() {
         </Link>
       </div>
       <div className="sm:block hidden">
-        <Button className="rounded-full py-2 px-6 bg-[#31BDA3] hover:bg-[#155D62] w-40">
-          Book 1-1 Session
-        </Button>
+        <a href="/sravan-resume.pdf" download>
+          <Button className="rounded-full py-2 px-6 bg-[#31BDA3] hover:bg-[#155D62] w-40">
+            Download Resume
+          </Button>
+        </a>
       </div>
     </header>
   );

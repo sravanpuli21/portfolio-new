@@ -16,8 +16,12 @@ import { FaFigma } from "react-icons/fa";
 import { TbMailFilled } from "react-icons/tb";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import { useRouter } from "next/navigation";
+import { useToast } from "@/hooks/use-toast";
 
 export default function Home() {
+  const router = useRouter();
+  const { toast } = useToast();
   return (
     <div className="w-full h-full bg-white">
       {/* navbar */}
@@ -56,9 +60,12 @@ export default function Home() {
               SaaS applications.
             </span>
           </p>
-          <p className="text-sm font-semibold border-b-2 border-black w-fit my-2">
+          <a
+            href="https://www.scad.edu/academics/programs/design-management"
+            className="text-sm font-semibold border-b-2 border-black w-fit my-2 cursor-pointer"
+          >
             SCAD ’ Savannah 🎓
-          </p>
+          </a>
           <div className="flex gap-4 py-4">
             <Button className="rounded-full py-6 px-8 bg-[#31BDA3] hover:bg-[#155D62]">
               More About Me
@@ -158,14 +165,20 @@ export default function Home() {
                   </span>
                   {item.research}
                 </p>
-                <Button className="rounded-full py-6 px-8 bg-[#31BDA3] hover:bg-[#155D62] mt-4">
+                <Button
+                  onClick={() => router.push(item.route)}
+                  className="rounded-full py-6 px-8 bg-[#31BDA3] hover:bg-[#155D62] mt-4"
+                >
                   View Case Study
                 </Button>
               </div>
             </div>
           ))}
         </div>
-        <Button className="rounded-full py-3 px-6 bg-[#31BDA3] hover:bg-[#155D62] w-56 h-auto">
+        <Button
+          onClick={() => router.push("/projects")}
+          className="rounded-full py-3 px-6 bg-[#31BDA3] hover:bg-[#155D62] w-56 h-auto"
+        >
           view all projects
         </Button>
       </section>
@@ -183,9 +196,22 @@ export default function Home() {
           <p className="sm:text-4xl text-2xl flex items-center gap-4 font-thin">
             sravanpuli2002@gmail.com{" "}
             <span>
-              <MdOutlineMail />
+              <a
+                className="cursor-pointer"
+                href="mailto:sravanpuli2002@gmail.com"
+              >
+                <MdOutlineMail />
+              </a>
             </span>
-            <span>
+            <span
+              className="cursor-pointer"
+              onClick={() => {
+                navigator.clipboard.writeText("sravanpuli2002@gmail.com");
+                toast({
+                  title: "email copied",
+                });
+              }}
+            >
               <FaRegCopy />
             </span>
           </p>

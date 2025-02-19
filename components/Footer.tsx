@@ -16,10 +16,16 @@ function Footer() {
           />
         </div>
         <div className="flex items-center gap-4 text-sm">
-          <a className="border-r-2 border-[#31BDA3] pr-4">About Me</a>
-          <a className="border-r-2 border-[#31BDA3] pr-4">Portfolio</a>
-          <a className="border-r-2 border-[#31BDA3] pr-4">Resume</a>
-          <a>Book 1-1 Call</a>
+          <a className="border-r-2 border-[#31BDA3] pr-4 cursor-pointer">
+            About Me
+          </a>
+          <a className="border-r-2 border-[#31BDA3] pr-4 cursor-pointer">
+            Portfolio
+          </a>
+          <a className="border-r-2 border-[#31BDA3] pr-4 cursor-pointer">
+            Resume
+          </a>
+          <a className=" cursor-pointer">Book 1-1 Call</a>
         </div>
       </div>
       <div className="flex sm:flex-row flex-col-reverse sm:items-center items-start sm:gap-0 gap-5 justify-between">
