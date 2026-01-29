@@ -32,7 +32,7 @@ function Header() {
         <Link
           href="/"
           className={`text-sm ${isActive(
-            "/"
+            "/",
           )}  hover:bg-gray-200 px-4 py-2 rounded-full transition-all duration-300 ease-in-out`}
         >
           Home
@@ -43,7 +43,7 @@ function Header() {
         <Link
           href="/projects"
           className={`text-sm ${isActive(
-            "/projects"
+            "/projects",
           )}  hover:bg-gray-200 px-4 py-2 rounded-full transition-all duration-300 ease-in-out`}
         >
           Work
@@ -51,14 +51,14 @@ function Header() {
         <Link
           href="/resume"
           className={`text-sm ${isActive(
-            "/resume"
+            "/resume",
           )}  hover:bg-gray-200 px-4 py-2 rounded-full transition-all duration-300 ease-in-out`}
         >
           Resume
         </Link>
       </div>
       <div className="sm:block hidden">
-        <a href="/sravan-resume.pdf" download>
+        <a href="/Sravan_Puli_Resume.pdf" download>
           <Button className="rounded-full py-2 px-6 bg-[#31BDA3] hover:bg-[#155D62] w-40">
             Download Resume
           </Button>

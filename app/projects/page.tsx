@@ -26,24 +26,32 @@ function Page() {
       </div>
       <section className="w-full h-full flex flex-col items-center pt-10">
         <p className="text-3xl font-bold mb-6">Projects</p>
-        <div>
+        <div className="max-w-7xl w-full">
           {projects.map((item) => (
             <div
               key={item.id}
-              className="flex sm:flex-row flex-col items-center justify-center gap-8 sm:w-[940px] sm:h-[564px] w-full h-auto sm:px-12 px-5 py-14"
+              className="flex sm:flex-row flex-col items-center justify-center gap-8 sm:w-full sm:h-[564px] w-full h-auto sm:px-8 px-5 py-14"
             >
-              <div className="flex-1 w-full">
+              <div className="">
                 <Image
                   src={item.image}
                   alt=""
                   width={400}
                   height={500}
-                  className="w-full h-full object-contain"
+                  className="w-full h-full max-w-[400px] max-h-[460px] object-contain"
                 />
               </div>
               <div className="flex-1 flex flex-col items-start justify-start gap-4 w-full h-full sm:py-10 py-2">
                 <p className="text-sm font-bold text-[#31BDA3]">{item.id}</p>
-                <h2 className="text-5xl font-bold pt-4">{item.title}</h2>
+                <div className="flex flex-wrap gap-2 items-end">
+                  <h2 className="text-5xl font-bold pt-4">{item.title}</h2>
+                  {item.isintern && (
+                    <span className="text-2xl">(internship)</span>
+                  )}
+                </div>
+                {item.subheadline && (
+                  <p className="text-2xl">{item.subheadline}</p>
+                )}
                 <p className="pt-2">{item.description}</p>
                 <p className="flex items-center gap-2 pt-4">
                   <span>
