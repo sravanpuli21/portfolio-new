@@ -37,9 +37,6 @@ function Header() {
         >
           Home
         </Link>
-        {/* <Link href="/login" className={`text-sm ${isActive("/login")}`}>
-          About Me
-        </Link> */}
         <Link
           href="/projects"
           className={`text-sm ${isActive(
