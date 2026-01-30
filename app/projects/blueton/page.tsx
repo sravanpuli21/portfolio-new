@@ -1,6 +1,7 @@
 "use client";
 import Footer from "@/components/Footer";
 import { Cross2Icon } from "@radix-ui/react-icons";
+import Image from "next/image";
 import { useRouter } from "next/navigation";
 
 const Page = () => {
@@ -19,16 +20,13 @@ const Page = () => {
         />
       </div>
       <div className="mx-28 flex justify-center items-center mt-28">
-        {/* <Image
-          src="/retail_store.png"
+        <Image
+          src="/blueton.png"
           alt="medvarsity"
           width={500}
           height={500}
           className="w-full h-auto rounded-2xl"
-        /> */}
-        <h1 className="h-screen flex items-center justify-center text-7xl font-bold">
-          Coming soon
-        </h1>
+        />
       </div>
       <Footer />
     </div>

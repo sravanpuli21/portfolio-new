@@ -27,7 +27,7 @@ export default function Home() {
       {/* navbar */}
       <Header />
       {/* hero */}
-      <section className="w-full h-full flex sm:flex-row flex-col items-center justify-center gap-10 my-10 sm:px-0 px-5">
+      <section className="w-full h-full flex sm:flex-row flex-col items-center justify-center gap-10 mt-10 mb-24 sm:px-0 px-5">
         <div className="sm:w-1/4 w-full sm:h-[500px] h-full">
           <div className="text-white  w-full h-full text-center">
             <Image
