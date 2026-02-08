@@ -23,8 +23,8 @@ const Page = () => {
         <Image
           src="/blueton.png"
           alt="medvarsity"
-          width={500}
-          height={500}
+          width={1250}
+          height={2000}
           className="w-full h-auto rounded-2xl"
         />
       </div>
